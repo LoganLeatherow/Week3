@@ -118,7 +118,6 @@ function greeting( obj ) {
 */
 
 //Code Here
-
 function totalPopulation(obj) {
   const {utah, california, texas, arizona} = obj
   return utah + california + texas + arizona
